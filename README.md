@@ -28,5 +28,5 @@ php -S localhost:8000
 
 Kemudian buka:
 
-http://localhost:8000
+http://localhost/web1/pertemuan_06/
 
